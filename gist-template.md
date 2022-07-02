@@ -42,19 +42,21 @@ Character classes is a set of characters, for example, alphabets, numbers, white
 [a-z0-9_\.-]+
 ```
 ### Flags
-
+A flag is an optional parameter to a regex that modifies its behavior of searching.
 ### Grouping and Capturing
-
+A group is a part of a regex pattern enclosed in parentheses () and Capturing groups are a way to treat multiple characters as a single unit.
 ### Bracket Expressions
-
+Brackets indicate a set of characters to match. Any individual character between the brackets will match.
 ### Greedy and Lazy Match
-
+A Greedy match means that the regex engine (the one which tries to find your pattern in the string) matches as many characters as possible and Lazy' means match shortest possible string
 ### Boundaries
-
+A word boundary is a position that is either preceded by a word character and not followed by one, or followed by a word character and not preceded by one.
 ### Back-references
-
+Back-references are specified with backslash and a single digit (e.g. ' \1 ') , back-references are regular expression commands which refer to a previous part of the matched regular expression. 
 ### Look-ahead and Look-behind
-
+Lookahead allows to add a condition for “what follows”. Lookbehind is similar, but it looks behind.
 ## Author
-
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+My name is Alex Canez i have an extensive sales background in telecomunications but im still learning the web industry , follow my progress in my github 
+```
+https://github.com/AlexCan36
+```
