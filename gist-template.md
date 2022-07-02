@@ -37,7 +37,10 @@ My expression doesnt have modifiers , if it did it will be after the / at the en
 ### OR Operator
 We dont have any. If it did it will look like this |
 ### Character Classes
-
+Character classes is a set of characters, for example, alphabets, numbers, whitespaces. 
+```
+[a-z0-9_\.-]+
+```
 ### Flags
 
 ### Grouping and Capturing
