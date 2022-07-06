@@ -42,9 +42,10 @@ Character classes is a set of characters, for example, alphabets, numbers, white
 [a-z0-9_\.-]+
 ```
 ### Flags
-A flag is an optional parameter to a regex that modifies its behavior of searching.
+A flag is an optional parameter to a regex that modifies its behavior of searching. We dont have any (g,m,i). If it did it will look like this /aBc/i
 ### Grouping and Capturing
 A group is a part of a regex pattern enclosed in parentheses () and Capturing groups are a way to treat multiple characters as a single unit.
+We dont have any. If it did it will look like this a(bc)
 ### Bracket Expressions
 Brackets indicate a set of characters to match. Any individual character between the brackets will match.
 ### Greedy and Lazy Match
@@ -56,7 +57,7 @@ Back-references are specified with backslash and a single digit (e.g. ' \1 ') , 
 ### Look-ahead and Look-behind
 Lookahead allows to add a condition for “what follows”. Lookbehind is similar, but it looks behind.
 ## Author
-My name is Alex Canez i have an extensive sales background in telecomunications but im still learning the web industry , follow my progress in my github 
+My name is Alex Canez i have an extensive background in telecomunications and im still learning the web industry , follow my progress in my github :
 ```
 https://github.com/AlexCan36
 ```
