@@ -57,7 +57,7 @@ Back-references are specified with backslash and a single digit (e.g. ' \1 ') , 
 ### Look-ahead and Look-behind
 Lookahead allows to add a condition for “what follows”. Lookbehind is similar, but it looks behind.
 ## Author
-My name is Alex Canez i have an extensive background in telecomunications and im still learning the web industry , follow my progress in my github :
+My name is Alex Canez i have an extensive background in telecomunications and i am now learning the web industry , follow my progress in my github :
 ```
 https://github.com/AlexCan36
 ```
