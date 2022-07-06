@@ -9,5 +9,5 @@ As we move further along the bootcamp we are now learning computer science, in t
 AC 2022.
 
 ```
-Github: AleCan36
+Github: https://github.com/AlexCan36
 ```
