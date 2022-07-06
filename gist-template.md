@@ -1,6 +1,5 @@
 # Regex Tutorial
-
-I will be explaining a regular expression.....
+As we move further along the bootcamp we are now learning computer science, in this project i demostrate how to use regex and i will be explaining a regular expression.
 
 ## Summary
 
